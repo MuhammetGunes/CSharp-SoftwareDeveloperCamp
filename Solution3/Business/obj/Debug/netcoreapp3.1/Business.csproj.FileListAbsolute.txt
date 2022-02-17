@@ -1,0 +1,17 @@
+C:\Users\Muhammet\source\repos\Solution3\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Muhammet\source\repos\Solution3\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Muhammet\source\repos\Solution3\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Muhammet\source\repos\Solution3\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Muhammet\source\repos\Solution3\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Muhammet\source\repos\Solution3\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Muhammet\source\repos\Solution3\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Muhammet\source\repos\Solution3\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\Muhammet\source\repos\Solution3\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammet\source\repos\Solution3\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Muhammet\source\repos\Solution3\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Muhammet\source\repos\Solution3\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\source\repos\Solution3\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Muhammet\source\repos\Solution3\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Muhammet\source\repos\Solution3\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Muhammet\source\repos\Solution3\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Muhammet\source\repos\Solution3\Business\bin\Debug\netcoreapp3.1\Core.pdb

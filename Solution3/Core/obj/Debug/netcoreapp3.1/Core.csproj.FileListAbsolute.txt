@@ -1,0 +1,10 @@
+C:\Users\Muhammet\source\repos\Solution3\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Muhammet\source\repos\Solution3\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Muhammet\source\repos\Solution3\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Muhammet\source\repos\Solution3\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\Muhammet\source\repos\Solution3\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammet\source\repos\Solution3\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Muhammet\source\repos\Solution3\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Muhammet\source\repos\Solution3\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\source\repos\Solution3\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Muhammet\source\repos\Solution3\Core\obj\Debug\netcoreapp3.1\Core.pdb
